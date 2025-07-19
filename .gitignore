@@ -1,0 +1,9 @@
+# Ignore all compiled class files
+*.class
+
+# Optional: Ignore VS Code settings
+.vscode/
+
+# Optional: Ignore macOS or Windows system files
+.DS_Store
+Thumbs.db
