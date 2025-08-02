@@ -1,3 +1,5 @@
+// Author: Joshna Jojo
+// Date: 17-07-2025
 import java.util.Scanner;
 public class evenNumber{
     public static void main(String[] args)

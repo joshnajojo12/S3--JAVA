@@ -1,3 +1,6 @@
+// Author: Joshna Jojo
+// Date: 19-07-2025
+
 import java.util.Scanner;
 public class fibanocci{
     public static void main(String[] args)
